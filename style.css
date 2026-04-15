@@ -11,7 +11,7 @@ nav {
 nav a {
   margin-right: 1rem;
   text-decoration: none;
-  color: ##171c14;
+  color: ##171c13;
 }
 header {
   margin-bottom: 2rem;
@@ -19,5 +19,5 @@ header {
 footer {
   margin-top: 2rem;
   font-size: 0.95em;
-  color: #4b5f43;
+  color: #4b5f44;
 }
