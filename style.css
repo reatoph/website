@@ -3,7 +3,7 @@ body {
   margin: 2rem auto;
   font-family: Arial, sans-serif;
   background: #000000;
-  color: #222;
+  color: #4b5f43;
 }
 nav {
   margin-bottom: 1rem;
@@ -11,7 +11,7 @@ nav {
 nav a {
   margin-right: 1rem;
   text-decoration: none;
-  color: ##171c13;
+  color: #66aaff;
 }
 header {
   margin-bottom: 2rem;
@@ -19,5 +19,5 @@ header {
 footer {
   margin-top: 2rem;
   font-size: 0.95em;
-  color: #4b5f44;
+  color: #aaaaaa;
 }
