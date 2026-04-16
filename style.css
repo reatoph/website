@@ -1,13 +1,13 @@
 body {
   max-width: 700px;
   margin: 2rem auto;
-  padding: 0 1rem; /* Better for mobile */
+  padding: 0 1rem;
   font-family: Arial, sans-serif;
-  line-height: 1.6; /* Improves readability */
+  line-height: 1.6;
   background: #000000;
   color: #4b5f43;
 }
 
 nav a:hover {
-  color: #ffffff; /* Contrast pop on hover */
+  color: #ffffff;
 }
