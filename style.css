@@ -1,31 +1,13 @@
 body {
   max-width: 700px;
   margin: 2rem auto;
+  padding: 0 1rem; /* Better for mobile */
   font-family: Arial, sans-serif;
+  line-height: 1.6; /* Improves readability */
   background: #000000;
   color: #4b5f43;
 }
-nav {
-  margin-bottom: 1rem;
-}
-nav a {
-  margin-right: 1rem;
-  text-decoration: none;
-  color: #9eba9b;
-}
-header {
-  margin-bottom: 2rem;
-}
-footer {
-  margin-top: 2rem;
-  font-size: 0.95em;
-  color: #aaaaaa;
 
+nav a:hover {
+  color: #ffffff; /* Contrast pop on hover */
 }
- <style>
-        .simple-border {
-            border: 2px solid black;
-            padding: 20px;
-            text-align: center;
-        }
-    </style>
