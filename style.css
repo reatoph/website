@@ -13,6 +13,12 @@ nav a:hover {
   color: #9eb594;
 }
 
+.link-card:hover {
+    background-color: #2b2330;
+    border: 1px solid #4b5f43;
+    transform: scale(1.01);
+}
+
 p {
   border: 2px
   color: #9eb594;
